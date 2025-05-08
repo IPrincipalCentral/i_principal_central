@@ -4755,19 +4755,14 @@ if (i["i am you"] == True):
 
                     i_self.i["i_semaphore_1"] = True
 
-                    print("i . i_e = ", i_e)
 
+                
                 i_self.i["i_path_of_image-s"] = os.path.join(i_self.i["i_cwd"], "i_folder_of_image")
 
 
-                # print("i_self.i['i_cwd'] = ", i_self.i["i_cwd"], " . i_self.i['i_path_of_image-s'] = ", i_self.i["i_path_of_image-s"])
-
+                
                 i_self.i["i_cwd"] = os.path.join(i_self.i["i_cwd"], "i_money")
 
-
-                # print("i_self.i['i_cwd'] = ", i_self.i["i_cwd"], " . i_self.i['i_path_of_image-s'] = ", i_self.i["i_path_of_image-s"])
-
-                # print("i_self.i['i_cwd'] = ", i_self.i["i_cwd"])
 
 
 
