@@ -12,22 +12,7 @@
 
 
 
-from any where in your computer you can do :
-
-------------------------------------------------
-
-
-import sys
-
-
-sys.path.append("path_to_this_repository")
-
-------------------------------------------------
-
-
-do this before so than write this program that are after
-
-
+i_hello
 
 
 '''
