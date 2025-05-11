@@ -137,11 +137,11 @@ print("i print aspecific number from the list of i unity in a specific folder .\
 
 
 
-i["i_class"].i_print_from_unity(i_quantity=1, i_unity="i", i_folder=os.path.join(os.getcwd(), "i", "i_main"), i_number=2)
+i["i_class"].i_print_from_unity(i_quantity=1, i_unity="I", i_folder=os.path.join(os.getcwd(), "i", "i_main"), i_number=2)
 
 
 
-i["i_class"].i_print_from_unity(i_quantity=1, i_unity="point", i_folder=os.path.join(os.getcwd(), "i", "i_main"), i_number=2)
+i["i_class"].i_print_from_unity(i_quantity=1, i_unity="Point", i_folder=os.path.join(os.getcwd(), "i", "i_main"), i_number=2)
 
 
 
