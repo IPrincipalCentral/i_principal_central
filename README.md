@@ -4,7 +4,7 @@ this is the auxiliar system for the liberary in python 'i_principal_central' you
 
 
 
-            Welcome to the i_principal_central wiki!
+            Welcome to the i_principal_central !
 
 
             i am i
